@@ -1,0 +1,17 @@
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\bin\Debug\net6.0-windows\CalculadoraJuros.exe
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\bin\Debug\net6.0-windows\CalculadoraJuros.deps.json
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\bin\Debug\net6.0-windows\CalculadoraJuros.runtimeconfig.json
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\bin\Debug\net6.0-windows\CalculadoraJuros.dll
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\bin\Debug\net6.0-windows\CalculadoraJuros.pdb
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.Form1.resources
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.csproj.GenerateResource.cache
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.AssemblyInfoInputs.cache
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.AssemblyInfo.cs
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.csproj.CoreCompileInputs.cache
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.dll
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\refint\CalculadoraJuros.dll
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.pdb
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.genruntimeconfig.cache
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\ref\CalculadoraJuros.dll
+C:\Projetos\cSharp\CalculadoraJuros\CalculadoraJuros\obj\Debug\net6.0-windows\CalculadoraJuros.Properties.Resources.resources
