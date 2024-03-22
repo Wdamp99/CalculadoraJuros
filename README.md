@@ -15,11 +15,11 @@
   ### Telas do Forms:
 
 <figure>
-  <img src="Assets/tela1.png" alt="Tela 1">
+  <img src="assets/tela1.png" alt="Tela 1">
 </figure>
 
 <figure>
-  <img src="Assets/tela2.png" alt="Tela 2">
+  <img src="assets/tela2.png" alt="Tela 2">
 </figure>
 
 
